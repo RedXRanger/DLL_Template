@@ -1,4 +1,5 @@
 //This is completely based off samprograms dllpost linked below
+//Its a simple DLL template that can be used for process injection, or whatever you want to happen within the Myfunction()
 //https://samprograms.wordpress.com/2015/02/27/correctly-using-createthread/
 
 void MyFunction()
